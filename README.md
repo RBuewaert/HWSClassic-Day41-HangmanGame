@@ -1,6 +1,6 @@
 # Hacking With Swift Classic : Challenge Day 41 : HangmanGame
 
-Creation of the hangman game with UIKit.
+Creation of the hangman game with UIKit:
 
 <img width="316" alt="HangmanGame" src="https://user-images.githubusercontent.com/79987744/151376647-4b3d62bd-8a04-43fe-8176-5bcdac3a5d2d.png">
 
